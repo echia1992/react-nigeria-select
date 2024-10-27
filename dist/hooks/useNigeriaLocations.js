@@ -1,0 +1,2 @@
+import{useState as e,useEffect as t}from"react";import{nigerianStates as s}from"../data/states.js";const a=a=>{const[o,r]=e(a||""),[c,l]=e(""),[d,m]=e([]);return t((()=>{if(o){const e=s.find((e=>e.state.toLowerCase()===o.toLowerCase()));m(e?e.lgas:[])}else m([]);l("")}),[o]),{states:s.map((e=>e.state)),lgas:d,selectedState:o,selectedLGA:c,setSelectedState:r,setSelectedLGA:l}};export{a as useNigeriaLocations};
+//# sourceMappingURL=useNigeriaLocations.js.map
