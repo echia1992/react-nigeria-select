@@ -1,5 +1,5 @@
 {
-  "name": "react-nigeria-select",
+  "name": "react-select-nigeria-state-lg",
   "version": "1.0.1",
   "type": "module",
   "main": "dist/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/echia1992/react-nigeria-select.git"
+    "url": "git+https://github.com/echia1992/react-select-nigeria-state-lg.git"
   },
   "keywords": [
     "react",
@@ -33,9 +33,9 @@
   "author": "Anthony Echia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/echia1992/react-nigeria-select/issues"
+    "url": "https://github.com/echia1992/react-select-nigeria-state-lg/issues"
   },
-  "homepage": "https://github.com/echia1992/react-nigeria-select#readme",
+  "homepage": "https://github.com/echia1992/react-select-nigeria-state-lg#readme",
   "description": "A React component for selecting Nigerian states and local government areas",
   "devDependencies": {
     "@chromatic-com/storybook": "^1.9.0",
